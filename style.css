@@ -58,6 +58,8 @@ body {
 }
 .header .position {
   font-weight: bold;
+  display: inline-block;
+  margin-right: 10px;
   text-decoration: underline;
 }
 
