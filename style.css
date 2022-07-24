@@ -98,11 +98,11 @@ body {
   display: inline-block;
 }
 .details .left {
-  width: 62%;
+  width: 64%;
 }
 .details .right {
   tex-align: right;
-  width: 37%;
+  width: 35%;
 }
 .details .name {
   font-weight: bold;
