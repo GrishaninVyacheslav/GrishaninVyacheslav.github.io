@@ -106,6 +106,7 @@ body {
 }
 .details .name {
   font-weight: bold;
+  text-decoration: underline;
 }
 .details a {
   text-decoration: none;
