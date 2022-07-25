@@ -29,9 +29,6 @@ body {
   margin-top: 50px;
 }
 
-.header {
-  margin-bottom: 30px;
-}
 .header .full-name {
   font-size: 37px;
   line-height: 40px;
@@ -80,33 +77,33 @@ body {
   margin-bottom: 10px;
   text-transform: uppercase;
 }
-.details .section__list-item {
-  /*padding-bottom: 40px;*/
-}
-.details .section__list-item:last-of-type {
-  /*margin-bottom: 0;*/
-}
 .desc {
   /*margin-bottom: 40px;*/
 }
 .desc_last {
   margin-bottom: 0px;
 }
-.details .left,
-.details .right {
+.left,
+.right {
   vertical-align: top;
   display: inline-block;
 }
+.left {
+  width: 63%;
+}
+.right {
+  width: 36%;
+}
+.header .right {
+  margin-bottom: 30px;
+}
 .details .left {
-  padding-bottom: 40px;
-  width: 64%;
+  padding-bottom: 30px;
 }
 .details .right {
-  padding-bottom: 40px;
-  tex-align: right;
-  width: 35%;
+  padding-bottom: 30px;
 }
-.details .center {
+.center {
   padding-bottom: 40px;
 }
 .details .name {
