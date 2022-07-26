@@ -117,3 +117,10 @@ body {
   text-decoration: underline;
   color: #000;
 }
+.preview {
+  text-align: center;
+}
+.preview img {
+  width: 197px;
+  height: 426px;
+}
